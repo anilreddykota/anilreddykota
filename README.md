@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilreddykota" alt="anilreddykota" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anilreddykota" target="blank"><img src="https://img.shields.io/twitter/follow/anilreddykota?logo=twitter&style=for-the-badge" alt="anilreddykota" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anilreddy8739" target="blank"><img src="https://img.shields.io/twitter/follow/anilreddykota?logo=twitter&style=for-the-badge" alt="anilreddykota" /></a> </p>
 
 - 🔭 I’m currently working on [MyPortfolio App](https://portfolionom.vercel.app)
 
