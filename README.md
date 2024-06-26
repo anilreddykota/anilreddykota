@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anil Reddy</h1>
-<h3 align="center">A passionate full stack developer and data scientist from India</h3>
+<h1 align="center">Hi 👋, I'm Anil Reddy Kota</h1>
+<h3 align="center">A Passionate Full Stack Developer and Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddykota&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddykota" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MyPortfolio App](https://portfolionom.vercel.app)
 
-- 🌱 I’m currently learning **React native, python**
+- 🌱 I’m currently learning **Data Science/ Analytics, python**
 
 - 👯 I’m looking to collaborate on [MyPortfolio App](https://portfolionom.vercel.app)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anilreddy8739@gmail.com**
 
-- ⚡ Fun fact **Funny about not getting sleep as you sleep all time when you code doesn't work properly and later wake up,passed all test cases**
+- ⚡ Fun fact **Funny about not getting sleep as you sleep all time when you code doesn't work properly and later wake up, passed all test cases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
