@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anil Reddy Kota</h1>
-<h3 align="center">A Passionate Full Stack Developer and Data Scientist from India</h3>
+<h3 align="center">🚀 Building Custom Solutions | MERN | Python | JavaScript | PHP | Data Science | Java | Mobile Apps | AWS | Let's Innovate & Grow Together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddykota&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddykota" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilreddykota" alt="anilreddykota" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anilreddy8739" target="blank"><img src="https://img.shields.io/twitter/follow/anilreddykota?logo=twitter&style=for-the-badge" alt="anilreddykota" /></a> </p>
 
-- 🔭 I’m currently working on [MyPortfolio App](https://portfolionom.vercel.app)
+- 🔭 I’m currently Building [AniSol Technologies](https://anisol.co.in)
 
 - 🌱 I’m currently learning **Data Science/ Analytics, python**
 
-- 👯 I’m looking to collaborate on [MyPortfolio App](https://portfolionom.vercel.app)
+- 👯 I’m looking to collaborate on [AniSol Technologies](https://anisol.co.in) products.
 
-- 🤝 I’m looking for help with [MyPortfolio](https://portfolionom.vercel.app)
+- 🤝 I’m looking for help with [AniSol Technologies](https://anisol.co.in) .
 
-- 👨‍💻 All of my projects are available at [https://portfolionom.vercel.app/anilreddykota](https://portfolionom.vercel.app/anilreddykota)
+- 👨‍💻 All of my projects are available at [portfolio](https://anilreddykota.me)
 
 - 💬 Ask me about **React, latest technologys, python programming, javascript problem solving**
 
-- 📫 How to reach me **anilreddy8739@gmail.com**
+- 📫 How to reach me **anilreddy8739@gmail.com** or **anilreddykota@anisol.co.in**
 
 - ⚡ Fun fact **Funny about not getting sleep as you sleep all time when you code doesn't work properly and later wake up, passed all test cases**
 
@@ -28,7 +27,7 @@
 <a href="https://twitter.com/anilreddy8739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilreddykota" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anilreddykota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilreddykota" height="30" width="40" /></a>
 <a href="https://fb.com/anilreddykota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anilreddykota" height="30" width="40" /></a>
-<a href="https://instagram.com/instalaydhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instalaydhu" height="30" width="40" /></a>
+<a href="https://instagram.com/anilreddykota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instalaydhu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anilreddy8739" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anilreddykota" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anilreddy8739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anilreddykota" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anilreddykota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilreddykota" height="30" width="40" /></a>
